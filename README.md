@@ -1,1 +1,4 @@
 # PythonEtterem
+
+Dependencies:
+ - PyQt4
